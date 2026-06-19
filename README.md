@@ -1,4 +1,4 @@
-# QuantVeil — Web Scraping & Market Analytics Open-source Platform
+# QuantVeil — Web Scraping & Market Analytics Platform
 
 Turn any company URL into a full intelligence report in minutes. QuantVeil extracts contacts, scrapes Reddit sentiment, checks GitHub activity, pulls Crunchbase funding data, fetches Google News & HN mentions, and generates an AI-powered SWOT analysis — all through a clean web UI with PDF and PPTX export.
 
