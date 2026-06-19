@@ -1,0 +1,14 @@
+curl_cffi>=0.7.0
+DrissionPage>=4.1.0
+beautifulsoup4>=4.12.0
+lxml>=5.0.0
+openai>=1.30.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# Optional — install for Camoufox (modified Firefox) engine:
+# pip install "camoufox[geoip]" && python -m camoufox fetch
+
+# Optional — Tor proxy support (free unlimited IP rotation):
+# Download Tor Browser from torproject.org and keep it open while scraping
+# OR download Tor Expert Bundle and run tor.exe (SOCKS5 on 127.0.0.1:9050)

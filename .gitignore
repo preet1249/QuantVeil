@@ -1,0 +1,48 @@
+# Secrets — NEVER commit these
+.env
+*.key
+*.pem
+*.p12
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual envs
+venv/
+.venv/
+env/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs / temp
+*.log
+*.tmp
+
+# Session cookie cache (domain-specific, never commit)
+sessions/
+
+# Claude Code project settings (local only)
+.claude/
+
+# Empty Flask defaults
+static/
+templates/
+
+# Generated report downloads
+downloads/
+
+# Frontend build output
+frontend/dist/
+frontend/node_modules/
